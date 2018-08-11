@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,yBAA0B,CACxB,MAAM,CAAC,OAAO,CAEhB,cAAe,CACb,IAAI,CAAE,IAAI,CACV,KAAK,CAAE,CAAC",
+"sources": ["sass/navbar.scss"],
+"names": [],
+"file": "style.min.css"
+}
